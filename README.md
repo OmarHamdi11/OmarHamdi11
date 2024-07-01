@@ -30,9 +30,9 @@ Check out the project [here](https://github.com/your-github-username/your-reposi
 
 ## 📫 Connect with Me
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/omar-ellafy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- GitHub: [My GitHub Profile](https://github.com/OmarHamdi11)
-- Email: [My-email](omarellafy1@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/omar-ellafy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- GitHub: [GitHub Profile](https://github.com/OmarHamdi11)
+- Email: [Email](omarellafy1@gmail.com)
 
 <!-- ## 🌟 GitHub Stats
 

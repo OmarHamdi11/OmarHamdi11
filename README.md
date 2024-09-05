@@ -28,6 +28,14 @@ Check out the project [here](https://github.com/your-github-username/your-reposi
 - **Frameworks**: Flutter
 - **Tools**: Git, VS Code, Android Studio
 
+## 🚀 Visitors count
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/OmarHamdi11/count.svg" />
+</p>
+
 ## 📫 Connect with Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/omar-ellafy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)

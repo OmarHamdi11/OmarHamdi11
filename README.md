@@ -6,6 +6,14 @@ Welcome to my GitHub profile! I’m currently pursuing my degree in Computer Sci
 
 ## 🚀 About Me
 
+- 🌱 Passionate about building scalable and secure applications with Spring Boot
+
+- 💼 Skilled in RESTful APIs, Spring Security, JPA/Hibernate, and DTO design
+
+- **🎯 Goal:** Grow as a Junior Java Backend Developer
+
+- **📱 Side skills:** Mobile development with Flutter
+
 - 📚 **Student:** Currently studying Computer Science.
 - 📱 **Mobile App Developer:** Passionate about creating seamless and efficient mobile applications.
 - 🛠️ **Tech Stack:** Flutter, Dart, and exploring various other technologies.

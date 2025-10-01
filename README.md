@@ -2,7 +2,6 @@
 
  **💻 Java Spring Boot Developer | 📱 Flutter Enthusiast (side skill)**
 
-Welcome to my GitHub profile! I’m currently pursuing my degree in Computer Science and have a keen interest in mobile app development, especially using Flutter.
 
 ## 🚀 About Me
 

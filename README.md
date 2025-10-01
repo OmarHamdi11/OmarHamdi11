@@ -13,8 +13,6 @@
 
 - **📱 Side skills:** Mobile development with Flutter
 
-Check out the project [here](https://github.com/your-github-username/your-repository-name). -->
-
 ## 🔧 Technologies & Tools
 
 - **Languages**: Java, C++, Dart

@@ -17,9 +17,9 @@ Check out the project [here](https://github.com/your-github-username/your-reposi
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Dart, C++
-- **Frameworks**: Flutter
-- **Tools**: Git, VS Code, Android Studio
+- **Languages**: Java, C++, Dart
+- **Frameworks**: Spring Framework, Spring Boot, Spring Data JPA, REST API, AOP, Spring Security, 
+- **Tools**: Intellij, Postman, Git, VS Code, Android Studio
 
 ## 📫 Connect with Me
 
